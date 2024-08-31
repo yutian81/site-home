@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.24811213.xyz/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "Alist",
+    "link": "https://alist.yzong.us.kg/"
   },
   {
     "icon": "CompactDisc",
@@ -16,22 +16,47 @@
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "AI导航",
+    "link": "https://tabxx.com/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "工具集",
+    "link": "https://tool.lu/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://tophub.today/c/news"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "哪吒探针",
+    "link": "https://nezha.yutian81.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "VPS监测",
+    "link": "https://vps.yutian81.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "域名监测",
+    "link": "https://domains.yutian81.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "IP工具",
+    "link": "https://www.itdog.cn/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "在线SSH",
+    "link": "https://ssh.yzong.us.kg/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "短链生成",
+    "link": "https://slink.yutian81.top/duanlian"
   }
 ]
