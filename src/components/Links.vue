@@ -43,7 +43,8 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode } from "@vicons/fa"; // 注意使用正确的类别
+// 此处引入的是 fa 类型
+import { Link, Blog, Music, Cloud, Airbnb, Tools, Fire, Crosshairs, LaptopCode, Globe, BuildingRegular, Terminal, Staylinked } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -65,11 +66,16 @@ const siteLinksList = computed(() => {
 const siteIcon = {
   Blog,
   Cloud,
-  CompactDisc,
-  Compass,
-  Book,
+  Music,
+  Airbnb,
+  Tools,
   Fire,
+  Crosshairs,
   LaptopCode,
+  Globe,
+  BuildingRegular,
+  Terminal,
+  Staylinked,
 };
 
 // 链接跳转
