@@ -67,10 +67,11 @@
   {
     "icon": "BattleNet",
     "name": "ITdog",
-    "link": "https://www.itdog.cn/ping/"
+    "link": "https://www.itdog.cn/ping"
   },
   {
     "icon": "BatteryHalf",
     "name": "站点监控",
     "link": "https://uptime.24811213.xyz/"
   }
+]
