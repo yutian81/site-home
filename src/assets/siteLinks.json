@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.24811213.xyz/"
+    "link": "https://blog.24811213.xyz"
   },
   {
     "icon": "Cloud",
     "name": "Alist",
-    "link": "https://alist.ytian.us.kg/"
+    "link": "https://alist.ytian.us.kg"
   },
   {
     "icon": "Music",
@@ -15,14 +15,14 @@
     "link": "http://ghyinyue.com/#/home"
   },
   {
-    "icon": "Airbnb",
-    "name": "AI导航",
-    "link": "https://tabxx.com/"
+    "icon": "BattleNet",
+    "name": "兰空图床",
+    "link": "https://img.ytian.us.kg"
   },
   {
     "icon": "Tools",
     "name": "工具集",
-    "link": "https://tool.lu/"
+    "link": "https://tool.lu"
   },
   {
     "icon": "Fire",
@@ -30,29 +30,34 @@
     "link": "https://tophub.today/c/news"
   },
   {
+    "icon": "BatteryHalf",
+    "name": "站点监控",
+    "link": "https://uptime.ytian.us.kg"
+  },
+  {
     "icon": "Crosshairs",
     "name": "哪吒探针",
-    "link": "https://nezha.yutian81.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "VPS监测",
-    "link": "https://vps.yutian81.top/"
-  },
-  {
-    "icon": "Globe",
-    "name": "域名监测",
-    "link": "https://domains.yutian81.top/"
-  },
-  {
-    "icon": "BuildingRegular",
-    "name": "本机IP",
-    "link": "https://yuzong.nyc.mn/"
+    "link": "https://nezha.yutian81.top"
   },
   {
     "icon": "Terminal",
     "name": "在线SSH",
-    "link": "https://ssh.ytian.us.kg/"
+    "link": "https://ssh.ytian.us.kg"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "VPS监测",
+    "link": "https://vps.yutian81.top"
+  },
+  {
+    "icon": "Globe",
+    "name": "域名监测",
+    "link": "https://domains.yutian81.top"
+  },
+  {
+    "icon": "BuildingRegular",
+    "name": "本机IP",
+    "link": "https://yuzong.nyc.mn"
   },
   {
     "icon": "Staylinked",
@@ -62,16 +67,11 @@
   {
     "icon": "InternetExplorer",
     "name": "网址导航",
-    "link": "https://yutian.nyc.mn/"
+    "link": "https://yutian.nyc.mn"
   },
   {
-    "icon": "BattleNet",
-    "name": "兰空图床",
-    "link": "https://img.ytian.us.kg"
-  },
-  {
-    "icon": "BatteryHalf",
-    "name": "站点监控",
-    "link": "https://uptime.24811213.xyz/"
+    "icon": "Airbnb",
+    "name": "AI导航",
+    "link": "https://tabxx.com"
   }
 ]
