@@ -81,12 +81,12 @@
   },
   {
     "icon": "Staylinked",
-    "name": "Umami",
+    "name": "Umami后端",
     "link": "https://umami.24811213.xyz/"
   },
   {
     "icon": "Staylinked",
-    "name": "Waline",
-    "link": "https://waline.24811213.xyz/"
+    "name": "Waline后端",
+    "link": "https://waline.24811213.xyz/ui"
   }
 ]
