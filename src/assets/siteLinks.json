@@ -5,14 +5,19 @@
     "link": "https://blog.811520.xyz"
   },
   {
+    "icon": "Blog",
+    "name": "博客2",
+    "link": "https://blog.24811213.xyz"
+  },
+  {
+    "icon": "InternetExplorer",
+    "name": "收藏夹",
+    "link": "https://blog.24811213.xyz/pintree"
+  },
+  {
     "icon": "Cloud",
     "name": "Alist",
     "link": "https://alist.ytian.us.kg"
-  },
-  {
-    "icon": "Music",
-    "name": "音乐",
-    "link": "https://blog.811520.xyz/music/"
   },
   {
     "icon": "BattleNet",
@@ -25,13 +30,23 @@
     "link": "https://ctool.dev/"
   },
   {
+    "icon": "Music",
+    "name": "音乐",
+    "link": "https://blog.811520.xyz/music/"
+  },
+  {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
   },
   {
+    "icon": "Airbnb",
+    "name": "AI导航",
+    "link": "https://tabxx.com"
+  },
+  {
     "icon": "BatteryHalf",
-    "name": "站点监控",
+    "name": "Uptime",
     "link": "https://uptime.ytian.us.kg"
   },
   {
@@ -65,13 +80,13 @@
     "link": "https://slink.yutian81.top/duanlian"
   },
   {
-    "icon": "InternetExplorer",
-    "name": "网址导航",
-    "link": "https://yutian.nyc.mn"
+    "icon": "Staylinked",
+    "name": "Umami",
+    "link": "https://umami.24811213.xyz/"
   },
   {
-    "icon": "Airbnb",
-    "name": "AI导航",
-    "link": "https://tabxx.com"
+    "icon": "Staylinked",
+    "name": "Waline",
+    "link": "https://waline.24811213.xyz/"
   }
 ]
