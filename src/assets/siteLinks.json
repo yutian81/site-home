@@ -81,16 +81,6 @@
   },
   {
     "icon": "Staylinked",
-    "name": "Umami后端",
-    "link": "https://umami.24811213.xyz/"
-  },
-  {
-    "icon": "Staylinked",
-    "name": "Waline后端",
-    "link": "https://waline.24811213.xyz/ui"
-  },
-  {
-    "icon": "Staylinked",
     "name": "CF邮件群发",
     "link": "https://send.yutian.nyc.mn/"
   },
